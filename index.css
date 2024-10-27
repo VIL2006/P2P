@@ -1,0 +1,71 @@
+.header {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.name {
+    
+}
+.conteiner {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-left: 580px;
+}
+.about-me {
+    font-size: 20px;
+    margin-left: 315px;
+    width: 600px;
+    padding-bottom: 100px;
+}
+.conteiner1 {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    margin-left: 600px;
+    margin-left: 315px;
+}
+.about-me-12 {
+    font-size: 25px;
+    margin-left: 343px;
+    width: 600px;
+    padding-bottom: 30px;
+}
+.about-me-13 {
+    font-size: 22px;
+    margin-left: 343px;
+    width: 600px;
+    padding-bottom: 15px;
+}
+.about-me-14 {
+    font-size: 18px;
+    margin-left: 325px;
+    width: 600px;
+    padding-bottom: 15px;
+}
+.about-me-15 {
+    font-size: 21px;
+    margin-left: 345px;
+    width: 600px;
+}
+.about-me-16 {
+    font-size: 21px;
+    margin-left: 435px;
+    width: 600px;
+}
+.about-me-17 {
+    font-size: 21px;
+    margin-left: 545px;
+    width: 600px;
+}
+.about-me-18 {
+    font-size: 21px;
+    margin-left: 345px;
+    width: 600px;
+    padding-bottom: 40px;
+}
+.about-me-19 {
+    font-size: 15px;
+    margin-left: 345px;
+    width: 600px;
+}
